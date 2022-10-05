@@ -2,7 +2,7 @@
 
 ### Created a jmx file from this collection:
 
-- https://www.getpostman.com/collections/a8f908e0ee1d77cb6f85
+- [Postman Collection](https://www.getpostman.com/collections/a8f908e0ee1d77cb6f85)
 
 ### Added following requests:
 
@@ -17,4 +17,6 @@
 
 ### Report
 
-![Jmx Report](./images/dmoney_api_load_test_report.png "Jmx Report")
+- [Live link of Report](https://hhhameem.github.io/dmoney-api-jmx/Reports/index.html)
+
+![Load Test Report](./images/dmoney_api_load_test_report.png "Load Test Report")
