@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1664965635808,279,User Login,200,OK,Dmoney Thread Group 1-1,text,true,,533,312,1,1,http://dmoney.professionaltrainingbd.com/user/login,266,0,226
+1664965636154,8005,Get User List,200,OK,Dmoney Thread Group 1-1,text,true,,1790774,409,1,1,http://dmoney.professionaltrainingbd.com/user/list,4599,0,0
+1664965644234,67,Create User(Customer),201,Created,Dmoney Thread Group 1-1,text,true,,596,616,1,1,http://dmoney.professionaltrainingbd.com/user/create,66,0,0
+1664965644304,93,Search User By Id,200,OK,Dmoney Thread Group 1-1,text,true,,547,419,1,1,http://dmoney.professionaltrainingbd.com/user/search?id=9994,92,0,0
+1664965644399,65,Search User By Phone Number,200,OK,Dmoney Thread Group 1-1,text,true,,559,436,1,1,http://dmoney.professionaltrainingbd.com/user/search?phone_number=01526838547,64,0,0
+1664965644466,124,Search User By Email,200,OK,Dmoney Thread Group 1-1,text,true,,547,437,1,1,http://dmoney.professionaltrainingbd.com/user/search?email=user664791@test.com,123,0,0
+1664965644592,84,Update User Phone Number,200,OK,Dmoney Thread Group 1-1,text,true,,381,476,1,1,http://dmoney.professionaltrainingbd.com/user/update/9994,84,0,0
+1664965644678,38,Delete User,200,OK,Dmoney Thread Group 1-1,text,true,,343,438,1,1,http://dmoney.professionaltrainingbd.com/user/delete/9994,38,0,0
